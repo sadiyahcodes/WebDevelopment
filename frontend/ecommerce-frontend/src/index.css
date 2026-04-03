@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@import "tailwindcss";
+
+code {
+  line-height: 135%;
+  padding: 4px 8px;
+  background: var(--code-bg);
+}
